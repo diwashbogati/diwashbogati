@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" role="img" aria-label="Purple wave footer">
+  <defs>
+    <linearGradient id="background" x1="0" x2="1">
+      <stop stop-color="#7c3aed"/>
+      <stop offset=".5" stop-color="#302b63"/>
+      <stop offset="1" stop-color="#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#background)"/>
+  <path d="M0 24C179 86 332 2 573 62S963 124 1200 39V120H0Z" fill="#0d1117" fill-opacity=".24"/>
+  <path d="M0 40C213 95 366 10 600 68S978 110 1200 48" fill="none" stroke="#ddd6fe" stroke-opacity=".42" stroke-width="2"/>
+</svg>

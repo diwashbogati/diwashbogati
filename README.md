@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:7C3AED&height=220&section=header&text=Diwash%20Bogati&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%7C%20Backend%20Development%20%7C%20AI%20%26%20ML&descAlignY=56&descSize=18" alt="Diwash Bogati header" width="100%" />
+  <img src="assets/profile-header.svg" alt="Diwash Bogati header" width="100%" />
 </p>
 
 <p align="center">
@@ -216,12 +216,13 @@ Develop backend modules for a collaborative academic application, balancing busi
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=diwashbogati&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="Diwash's GitHub statistics" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=diwashbogati&theme=midnight-purple&hide_border=true" alt="Diwash's contribution streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=diwashbogati&theme=midnight-purple&hide_border=true" alt="Diwash's contribution streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwashbogati&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Most used languages" />
+  <a href="https://github.com/diwashbogati?tab=repositories"><img src="https://img.shields.io/badge/GitHub-View%20Public%20Repositories-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" /></a>
+  <a href="https://github.com/diwashbogati?tab=stars"><img src="https://img.shields.io/github/stars/diwashbogati?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&color=6D28D9&labelColor=1E1B4B" alt="Total GitHub stars" /></a>
+  <a href="https://github.com/diwashbogati?tab=followers"><img src="https://img.shields.io/github/followers/diwashbogati?style=for-the-badge&label=FOLLOWERS&color=7C3AED&labelColor=1E1B4B" alt="GitHub followers" /></a>
 </p>
 
 ---
@@ -229,7 +230,7 @@ Develop backend modules for a collaborative academic application, balancing busi
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diwashbogati&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+  <a href="https://github.com/diwashbogati?achievement=YOLO"><img src="https://img.shields.io/badge/GitHub-View%20Achievements-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements" /></a>
 </p>
 
 ---
@@ -284,5 +285,5 @@ open_to:
 <p align="center"><i>Engineering thoughtful software where reliability, craft, and curiosity meet.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:302B63,100:0F0C29&height=120&section=footer" alt="Footer banner" width="100%" />
+  <img src="assets/profile-footer.svg" alt="Footer banner" width="100%" />
 </p>
