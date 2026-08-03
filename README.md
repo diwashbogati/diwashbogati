@@ -35,7 +35,7 @@ I bring a product-engineering mindset to academic and personal projects: underst
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Internships-6D28D9?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to software engineering internships" />
-  <img src="https://img.shields.io/badge/Interested%20in-Backend%20%7C%20Full--Stack%20%7C%20AI%2FML-312E81?style=for-the-badge&logo=probot&logoColor=white" alt="Interested in backend, full-stack, and AI ML" />
+  <img src="https://img.shields.io/badge/Interested%20in-Cybersecurity%20%7C%20Full--Stack%20%7C%20AI%2FML-312E81?style=for-the-badge&logo=probot&logoColor=white" alt="Interested in Cybersecurity, full-stack, and AI ML" />
 </p>
 
 ---
