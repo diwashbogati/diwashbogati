@@ -27,7 +27,7 @@
 
 ---
 
-## About
+## 🧠 About Me
 
 I am a detail-oriented **Computer Applications student** and aspiring software engineer focused on building dependable, maintainable products. My work centres on Python backend development, relational database design, REST API fundamentals, and collaborative Git workflows.
 
@@ -40,7 +40,7 @@ I bring a product-engineering mindset to academic and personal projects: underst
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <strong>Languages</strong><br />
@@ -64,7 +64,7 @@ I bring a product-engineering mindset to academic and personal projects: underst
 
 ---
 
-## AI / ML Expertise
+## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
@@ -75,7 +75,7 @@ I bring a product-engineering mindset to academic and personal projects: underst
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><strong>Library Management System</strong> — Multi-user library operations platform</summary>
