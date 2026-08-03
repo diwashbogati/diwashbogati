@@ -213,7 +213,7 @@ Develop backend modules for a collaborative academic application, balancing busi
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=diwashbogati&theme=midnight-purple&hide_border=true" alt="Diwash's contribution streak" />
@@ -227,7 +227,7 @@ Develop backend modules for a collaborative academic application, balancing busi
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/diwashbogati?achievement=YOLO"><img src="https://img.shields.io/badge/GitHub-View%20Achievements-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements" /></a>
@@ -235,7 +235,7 @@ Develop backend modules for a collaborative academic application, balancing busi
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=diwashbogati&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=EDE9FE&area=true&area_color=4C1D95&hide_border=true" alt="Contribution activity graph" width="100%" />
@@ -243,7 +243,7 @@ Develop backend modules for a collaborative academic application, balancing busi
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/diwashbogati/diwashbogati/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
@@ -251,7 +251,7 @@ Develop backend modules for a collaborative academic application, balancing busi
 
 ---
 
-## Current Focus
+## 🔗 Current Focus
 
 ```yaml
 learning:
