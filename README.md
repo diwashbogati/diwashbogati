@@ -188,20 +188,6 @@ Develop backend modules for a collaborative academic application, balancing busi
 
 ---
 
-## Certifications
-
-<p align="center">
-  <a href="https://aws.amazon.com/certification/"><img src="https://img.shields.io/badge/AWS-Cloud%20Learning%20Path-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS cloud learning path" /></a>
-  <a href="https://education.oracle.com/"><img src="https://img.shields.io/badge/Oracle-Database%20Learning%20Path-312E81?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle database learning path" /></a>
-</p>
-
-<p align="center">
-  <a href="https://nptel.ac.in/"><img src="https://img.shields.io/badge/NPTEL-Engineering%20Coursework-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white" alt="NPTEL engineering coursework" /></a>
-  <a href="https://www.netacad.com/"><img src="https://img.shields.io/badge/Cisco-Networking%20Learning%20Path-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco networking learning path" /></a>
-</p>
-
----
-
 ## Coding Profiles
 
 <p align="center">
