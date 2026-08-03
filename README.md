@@ -251,7 +251,7 @@ Develop backend modules for a collaborative academic application, balancing busi
 
 ---
 
-## 🔗 Current Focus
+## 🎯 Current Focus
 
 ```yaml
 learning:
@@ -271,7 +271,7 @@ open_to:
 
 ---
 
-## Connect
+## 🔗 Connect
 
 <p align="center">
   <a href="mailto:DiwashBogati7@gmail.com"><img src="https://img.shields.io/badge/Gmail-DiwashBogati7%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Diwash" /></a>
